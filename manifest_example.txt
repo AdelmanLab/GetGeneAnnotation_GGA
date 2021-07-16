@@ -1,0 +1,2 @@
+{path}/Sample1_R1.fastq.bz2	{path}/Sample1_R2.fastq.bz2	Sample1
+{path}/Sample2_R1.fastq.bz2	{path}/Sample2_R2.fastq.bz2	Sample2
