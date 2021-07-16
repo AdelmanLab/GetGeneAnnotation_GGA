@@ -1,6 +1,8 @@
 # GeneAnnotations (GGA)
 This script will define active transcripts and annotate dominant TSS and TES locations using RNA-seq and PRO-seq/Start-seq data. 
 
+Developed jointly by Benjamin J. E. Martin and Claudia A. Mimoso (Karen Adelman Lab)
+
 ## General workflow
 To call active transcripts and dominant TSS and TES using expression data, this script will:
 
